@@ -29,5 +29,8 @@
     <Text Include="texto.txt">
       <Filter>Source Files</Filter>
     </Text>
+    <Text Include="saida.txt">
+      <Filter>Source Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

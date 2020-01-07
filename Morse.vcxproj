@@ -103,6 +103,7 @@
   <ItemGroup>
     <Text Include="morse.txt" />
     <Text Include="original1.txt" />
+    <Text Include="saida.txt" />
     <Text Include="texto.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
